@@ -1,0 +1,199 @@
+{
+  "brand_category_mappings": {
+    "Nestlé": [
+      "Food & Beverages"
+    ],
+    "Unilever": [
+      "Food & Beverages",
+      "Personal Care",
+      "Home Care",
+      "Snacks"
+    ],
+    "ITC": [
+      "Food & Beverages",
+      "Personal Care",
+      "Home Care",
+      "Snacks",
+      "Baby & Childcare",
+      "Health"
+    ],
+    "Procter & Gamble": [
+      "Personal Care",
+      "Home Care",
+      "Baby & Childcare"
+    ],
+    "Johnson & Johnson": [
+      "Baby & Childcare",
+      "Health"
+    ],
+    "Britannia": [
+      "Food & Beverages"
+    ],
+    "Godrej": [
+      "Personal Care",
+      "Home Care"
+    ],
+    "PepsiCo": [
+      "Food & Beverages",
+      "Snacks"
+    ],
+    "Parle": [
+      "Food & Beverages",
+      "Snacks"
+    ],
+    "Dabur": [
+      "Health",
+      "Personal Care"
+    ]
+  },
+  "brand_details": {
+    "Nestlé": {
+      "sub_brands": [
+        "Nescafe",
+        "Maggi",
+        "KitKat",
+        "Munch",
+        "Milkybar",
+        "Bar One",
+        "Polo",
+        "Milo",
+        "a+",
+        "Everyday",
+        "Milkmaid",
+        "Cerelac",
+        "Lactogen",
+        "Koko Krunch"
+      ],
+      "focus": "Food and nutrition"
+    },
+    "Unilever": {
+      "sub_brands": [
+        "Dove",
+        "Lux",
+        "Lifebuoy",
+        "Pears",
+        "Hamam",
+        "Pepsodent",
+        "Closeup",
+        "Pond's",
+        "Vaseline",
+        "Lakmé",
+        "Surf Excel",
+        "Rin",
+        "Wheel",
+        "Vim",
+        "Domex",
+        "Comfort",
+        "Brooke Bond",
+        "Taj Mahal",
+        "Red Label",
+        "Bru",
+        "Kissan",
+        "Knorr",
+        "Horlicks",
+        "Kwality Walls",
+        "Cornetto"
+      ],
+      "focus": "Maximum diversification across consumer goods, home care, foods, frozen desserts"
+    },
+    "ITC": {
+      "sub_brands": [
+        "Aashirvaad",
+        "Sunfeast",
+        "Bingo",
+        "YiPPee",
+        "B Natural",
+        "Candyman",
+        "Mint-o",
+        "Kitchens of India",
+        "Fiama Di Wills",
+        "Vivel",
+        "Savlon",
+        "Essenza Di Wills",
+        "Engage",
+        "Superia",
+        "Classmate"
+      ],
+      "focus": "India's most diversified conglomerate"
+    },
+    "Procter & Gamble": {
+      "sub_brands": [
+        "Pantene",
+        "Head & Shoulders",
+        "Gillette",
+        "Oral-B",
+        "Old Spice",
+        "Ariel",
+        "Tide",
+        "Downy",
+        "Lenor",
+        "Ambi Pur",
+        "Pampers"
+      ],
+      "focus": "Beauty, grooming, fabric care, baby care"
+    },
+    "Johnson & Johnson": {
+      "sub_brands": [
+        "Johnson's Baby",
+        "Band-Aid",
+        "Listerine"
+      ],
+      "focus": "Baby care heritage and healthcare"
+    },
+    "Britannia": {
+      "sub_brands": [
+        "Good Day",
+        "Marie Gold",
+        "NutriChoice",
+        "Tiger",
+        "Bourbon",
+        "Treat",
+        "Little Hearts"
+      ],
+      "focus": "Bakery and dairy specialization"
+    },
+    "Godrej": {
+      "sub_brands": [
+        "Godrej No.1",
+        "Cinthol",
+        "Goodknight"
+      ],
+      "focus": "Personal wash and household insecticide"
+    },
+    "PepsiCo": {
+      "sub_brands": [
+        "Pepsi",
+        "Mountain Dew",
+        "Tropicana",
+        "Quaker",
+        "Lay's",
+        "Kurkure",
+        "Doritos"
+      ],
+      "focus": "Beverages and snacks"
+    },
+    "Parle": {
+      "sub_brands": [
+        "Parle-G",
+        "Monaco",
+        "Krackjack",
+        "Hide & Seek"
+      ],
+      "focus": "Biscuits and confectionery"
+    },
+    "Dabur": {
+      "sub_brands": [
+        "Dabur Honey",
+        "Dabur Chyawanprash",
+        "Dabur Lal Tail",
+        "Dabur Pudin Hara",
+        "Dabur Amla",
+        "Vatika",
+        "Dabur Red",
+        "Babool",
+        "Meswak"
+      ],
+      "focus": "Ayurveda and herbal products"
+    }
+  }
+}
